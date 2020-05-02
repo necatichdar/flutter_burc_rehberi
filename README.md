@@ -4,7 +4,7 @@ Burc Rehberi Uygulamasi
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter öğrenme adımlarında geliştirdiğim burc rehberi projesi. Flutter çalışma mantığını kavramak açısından geliştirilmiştir.
 
 A few resources to get you started if this is your first Flutter project:
 
